@@ -1,7 +1,7 @@
 
 
 
-function generate_password()  {
+function generate_password(passwordLength, includeSymbols,)  {
   
 }
 
@@ -10,3 +10,4 @@ const includeSymbols = true;
 const includeNumbers = true;
 const includeUppercase = true;
 const includeLowercase = true;
+
