@@ -1,7 +1,7 @@
 
 
 
-function generate_password(passwordLength, includeSymbols,)  {
+function generate_password(passwordLength, includeSymbols, includeNumbers, includeUppercase, includeLowercase)  {
   
 }
 
