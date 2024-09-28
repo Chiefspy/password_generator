@@ -2,7 +2,9 @@
 
 
 function generate_password(Length, includeSymbols, includeNumbers, includeUppercase, includeLowercase)  {
-  const length = Length;
+  const UppercaseChars = "ABCDEFGHIJKLOMNOPQRSTUVWXYZ";
+  const LowercaseChars = "abcdefghijklomnopqrstuvwxyz";
+  const numberChars = "0123456789";
 }
 
 const passwordLength = 8;
